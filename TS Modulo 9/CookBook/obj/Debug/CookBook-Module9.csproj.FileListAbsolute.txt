@@ -1,0 +1,6 @@
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\bin\CookBook-Module9.dll.config
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\bin\CookBook-Module9.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\bin\CookBook-Module9.pdb
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\obj\Debug\CookBook-Module9.csprojResolveAssemblyReference.cache
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\obj\Debug\CookBook-Module9.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 9\CookBook\obj\Debug\CookBook-Module9.pdb

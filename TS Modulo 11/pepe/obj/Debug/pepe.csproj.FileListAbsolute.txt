@@ -1,0 +1,5 @@
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 11\pepe\bin\pepe.dll.config
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 11\pepe\bin\pepe.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 11\pepe\bin\pepe.pdb
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 11\pepe\obj\Debug\pepe.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\TS Modulo 11\pepe\obj\Debug\pepe.pdb

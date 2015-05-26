@@ -1,0 +1,5 @@
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 4\WorkingWithFunctions\bin\WorkingWithFunctions.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 4\WorkingWithFunctions\bin\WorkingWithFunctions.pdb
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 4\WorkingWithFunctions\obj\Release\WorkingWithFunctions.csprojResolveAssemblyReference.cache
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 4\WorkingWithFunctions\obj\Release\WorkingWithFunctions.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 4\WorkingWithFunctions\obj\Release\WorkingWithFunctions.pdb

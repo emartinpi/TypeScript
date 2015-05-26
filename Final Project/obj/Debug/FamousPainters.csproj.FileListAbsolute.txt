@@ -1,0 +1,6 @@
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\bin\FamousPainters.dll.config
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\bin\FamousPainters.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\bin\FamousPainters.pdb
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\obj\Debug\FamousPainters.csprojResolveAssemblyReference.cache
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\obj\Debug\FamousPainters.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TypeScript\Final Project\obj\Debug\FamousPainters.pdb

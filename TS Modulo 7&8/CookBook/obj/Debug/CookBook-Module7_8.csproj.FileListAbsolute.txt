@@ -1,0 +1,6 @@
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\bin\CookBook-Module7_8.dll.config
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\bin\CookBook-Module7_8.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\bin\CookBook-Module7_8.pdb
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\obj\Debug\CookBook-Module7_8.csprojResolveAssemblyReference.cache
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\obj\Debug\CookBook-Module7_8.dll
+D:\Edu Martin\Documents\Visual Studio 2013\Projects\TS Modulo 7&8\CookBook\obj\Debug\CookBook-Module7_8.pdb
